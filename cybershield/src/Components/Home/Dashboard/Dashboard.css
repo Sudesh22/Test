@@ -1,0 +1,24 @@
+.all-graph {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(40%, 1fr));
+  grid-gap: 20px;
+}
+.dashboard-status {
+  display: flex;
+}
+
+.device-status {
+  color: green;
+}
+.dashboard {
+  color: rgb(0, 0, 0);
+  font-size: 1.5rem;
+}
+.text{
+  color: rgb(0, 0, 0);
+  height: 0px;
+}
+
+table, th, td {
+  border: 2px solid rgb(0, 0, 0);
+}

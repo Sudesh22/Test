@@ -1,0 +1,11 @@
+.temp {
+  color: brown;
+}
+.humid {
+  color: rgb(2, 88, 2);
+}
+
+.bg-graph {
+  background-color: #0d0d0d;
+  border: 3px solid rgba(255, 255, 255, 0.3);
+}
